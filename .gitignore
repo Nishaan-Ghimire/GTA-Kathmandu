@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.artifacts/
+.codebase-memory/
+.playwright-cli/
+output/
+.omx/
+.DS_Store
+.env
+.env.*
+!.env.example
